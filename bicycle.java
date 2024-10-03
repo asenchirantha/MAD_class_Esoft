@@ -32,6 +32,19 @@ public class bicycle {
         gear += speedUp;
     }
     
+	public void speedup(int speedUp)
+    {
+        //speed up
+        gear += speedUp;
+    }
+	
+	public void speedup(int speedUp)
+    {
+        //speed up
+        gear += speedUp;
+    }
+	
+	
     public String print()
     {
         //print statements
